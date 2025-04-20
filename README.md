@@ -37,29 +37,51 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulboraa&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rahulboraa&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulboraa&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahulboraa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:rahul.bora101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
-  <a href="https://rahulbora.surge.sh" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<div style="display: flex; gap: 12px; align-items: center; justify-content: flex-start;">
+  <a
+    href="https://www.linkedin.com/in/rahulboraa"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="LinkedIn Profile"
+  >
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"
+      style="transition: transform 0.2s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.1)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+  <a
+    href="mailto:rahul.bora101@gmail.com"
+    aria-label="Send Email"
+  >
+    <img
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"
+      style="transition: transform 0.2s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.1)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+  <a
+    href="https://rahulbora.surge.sh"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Portfolio Website"
+  >
+    <img
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white"
+      style="transition: transform 0.2s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.1)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+</div>
 
-</p>
 
 ---
 
