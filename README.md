@@ -55,7 +55,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rahulboraa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:rahul.bora101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
-  <a href="https://rahulbora.surge.sh" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=portfolio"></a>
+  <a href="https://rahulbora.surge.sh" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
 ---
