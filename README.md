@@ -14,8 +14,12 @@
 ## 🚀 About Me
 
 - 👨‍💻 I'm a **React / React Native Developer** with 4+ years of experience  
-- 🔥 Built digital platforms for **YesMadam**, **LIC Mutual Fund**, and **Odisha Govt. Schools**
-- ⚡ Fun Fact: I treat bugs like cricket deliveries — I smash them 😎  
+- 💎 Pixel-perfect UI Design  
+- 🔗 Seamless API integrations  
+- 🚀 Fast, scalable, and maintainable frontend code  
+- 👨‍💻 Real-world experience building products that scale  
+- 🧩 Strong understanding of component architecture  
+
 
 ---
 
@@ -53,16 +57,6 @@
   <a href="mailto:rahul.bora101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
   <a href="https://rahulbora.surge.sh" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=portfolio"></a>
 </p>
-
----
-
-## ⚡ Bonus: What I Bring to the Table
-
-- 💎 Pixel-perfect UI Design  
-- 🔗 Seamless API integrations  
-- 🚀 Fast, scalable, and maintainable frontend code  
-- 👨‍💻 Real-world experience building products that scale  
-- 🧩 Strong understanding of component architecture  
 
 ---
 
